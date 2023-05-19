@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "Basicos:lib"
+
+    - path: "./test"
+      component: "Basicos:test:Basicos-test"

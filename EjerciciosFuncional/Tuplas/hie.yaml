@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "Tuplas:lib"
+
+    - path: "./test"
+      component: "Tuplas:test:Tuplas-test"

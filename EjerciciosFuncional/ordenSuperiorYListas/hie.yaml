@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "ordenSuperiorYListas:lib"
+
+    - path: "./test"
+      component: "ordenSuperiorYListas:test:ordenSuperiorYListas-test"

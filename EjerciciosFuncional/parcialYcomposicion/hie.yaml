@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "parcialYcomposicion:lib"
+
+    - path: "./test"
+      component: "parcialYcomposicion:test:parcialYcomposicion-test"
