@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "hubers:lib"
+
+    - path: "./test"
+      component: "hubers:test:hubers-test"

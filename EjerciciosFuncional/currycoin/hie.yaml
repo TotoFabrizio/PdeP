@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "currycoin:lib"
+
+    - path: "./test"
+      component: "currycoin:test:currycoin-test"
