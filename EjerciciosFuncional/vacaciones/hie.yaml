@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "vacaciones:lib"
+
+    - path: "./test"
+      component: "vacaciones:test:vacaciones-test"
