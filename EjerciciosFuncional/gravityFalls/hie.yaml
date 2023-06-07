@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "gravityFalls:lib"
+
+    - path: "./test"
+      component: "gravityFalls:test:gravityFalls-test"
