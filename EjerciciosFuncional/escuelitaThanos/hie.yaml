@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "escuelitaThanos:lib"
+
+    - path: "./test"
+      component: "escuelitaThanos:test:escuelitaThanos-test"
