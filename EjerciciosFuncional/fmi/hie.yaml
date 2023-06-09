@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "fmi:lib"
+
+    - path: "./test"
+      component: "fmi:test:fmi-test"
